@@ -8,7 +8,7 @@ This will be a side scroller game based on the hit anime tv show "Naruto". In th
 
 * Aron Chen (Role 1, Role 2)
 * Member 2 (Role 3, Role 4)
-* Member 3 (Role 5, Role 6)
+* Caleb Poe (Role 5, Role 6)
 
 ## Prerequisites
 
