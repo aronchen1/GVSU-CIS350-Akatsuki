@@ -6,7 +6,7 @@ This will be a side scroller game based on the hit anime tv show "Naruto". In th
 
 ## Team Members and Roles
 
-* Aron Chen (Role 1, Role 2)
+* [Aron Chen](https://github.com/aronchen1/CIS350-HW2-Chen) (Role 1, Role 2)
 * Ethan Chomoa (Role 3, Role 4)
 * Caleb Poe (Role 5, Role 6)
 
