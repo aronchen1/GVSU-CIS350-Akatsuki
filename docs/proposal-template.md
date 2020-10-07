@@ -4,7 +4,6 @@ Team members: Aron Chen, Ethan Chomoa, Caleb Poe
 
 # Introduction
 
-(In 2-4 paragraphs, describe your project concept)
 For our project we will be planning, coding, and polishing a side-scroller game utilizing the Unity game engine. This will be a side scroller game based on the hit anime tv show "Naruto". In this game, the user will control a 2-D character who moves through levels in order to achieve a so far undecided goal. This game will operate on computers.
 
 There will be computer generated enemies to increase level difficulty, along with obstacles to overcome and puzzles. For the enemies, we plan on using mutliple types of movment. Some will walk back and forth, while others move depending on the controlled player. The enemies will be able to attack in a slew of different ways, including by touch, weapons, and mind games. 
