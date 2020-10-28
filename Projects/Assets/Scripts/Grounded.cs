@@ -5,11 +5,11 @@ using UnityEngine;
 public class Grounded : MonoBehaviour
 
 {
-    GameObject Naruto;
+    GameObject Naruto_24;
     // Start is called before the first frame update
     void Start()
     {
-        Naruto = gameObject.transform.parent.gameObject;
+        Naruto_24 = gameObject.transform.parent.gameObject;
     }
 
     // Update is called once per frame
@@ -22,7 +22,7 @@ public class Grounded : MonoBehaviour
     {
         if (collision.collider.tag == "Ground")
         {
-            Naruto.GetComponent<BasicMovement>().isGrounded = true;
+            Naruto_24.GetComponent<BasicMovement>().isGrounded = true;
         }
     }
 
@@ -30,7 +30,7 @@ public class Grounded : MonoBehaviour
     {
         if (collision.collider.tag == "Ground")
         {
-            Naruto.GetComponent<BasicMovement>().isGrounded = false;
+            Naruto_24.GetComponent<BasicMovement>().isGrounded = false;
         }
     }
 }
