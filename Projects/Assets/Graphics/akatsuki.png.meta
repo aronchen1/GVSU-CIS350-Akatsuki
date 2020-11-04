@@ -1,0 +1,3752 @@
+fileFormatVersion: 2
+guid: b08196eabe692f34f80bfd9ca4979db9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2733286160050422150
+    second: akatsuki_0
+  - first:
+      213: -4231999332160244982
+    second: akatsuki_1
+  - first:
+      213: 1312549058829926580
+    second: akatsuki_2
+  - first:
+      213: 7434477352545915784
+    second: akatsuki_3
+  - first:
+      213: -3478679664317410309
+    second: akatsuki_4
+  - first:
+      213: 8089407116600950025
+    second: akatsuki_5
+  - first:
+      213: 3677998204910808574
+    second: akatsuki_6
+  - first:
+      213: -99570941634390345
+    second: akatsuki_7
+  - first:
+      213: 4669794482631654583
+    second: akatsuki_8
+  - first:
+      213: -7514456409142577192
+    second: akatsuki_9
+  - first:
+      213: -6784351318090334021
+    second: akatsuki_10
+  - first:
+      213: -122351155990470566
+    second: akatsuki_11
+  - first:
+      213: -6857434751654626700
+    second: akatsuki_12
+  - first:
+      213: -1928680171758490041
+    second: akatsuki_13
+  - first:
+      213: 6631979330099167382
+    second: akatsuki_14
+  - first:
+      213: 5982948982152022057
+    second: akatsuki_15
+  - first:
+      213: 19715004723383477
+    second: akatsuki_16
+  - first:
+      213: 8325239372430527517
+    second: akatsuki_17
+  - first:
+      213: 6512347296381069616
+    second: akatsuki_18
+  - first:
+      213: -8266677366974617975
+    second: akatsuki_19
+  - first:
+      213: -5242093522359768049
+    second: akatsuki_20
+  - first:
+      213: -439787644195211117
+    second: akatsuki_21
+  - first:
+      213: 7139351810117009918
+    second: akatsuki_22
+  - first:
+      213: 8919194132162640838
+    second: akatsuki_23
+  - first:
+      213: -4197577560027183386
+    second: akatsuki_24
+  - first:
+      213: 7546920913530248050
+    second: akatsuki_25
+  - first:
+      213: -6297193093638003360
+    second: akatsuki_26
+  - first:
+      213: 8356298361146207811
+    second: akatsuki_27
+  - first:
+      213: 527075099064675451
+    second: akatsuki_28
+  - first:
+      213: -9157113416452087626
+    second: akatsuki_29
+  - first:
+      213: -2837804972803374628
+    second: akatsuki_30
+  - first:
+      213: 6720644560765946257
+    second: akatsuki_31
+  - first:
+      213: 5570606086438205746
+    second: akatsuki_32
+  - first:
+      213: -3555192312839559414
+    second: akatsuki_33
+  - first:
+      213: 7078276021234009012
+    second: akatsuki_34
+  - first:
+      213: -18018143967942338
+    second: akatsuki_35
+  - first:
+      213: -145833546330422088
+    second: akatsuki_36
+  - first:
+      213: 1614447254493309997
+    second: akatsuki_37
+  - first:
+      213: 5978375787634077509
+    second: akatsuki_38
+  - first:
+      213: -1595771256568941123
+    second: akatsuki_39
+  - first:
+      213: 9117874143119214127
+    second: akatsuki_40
+  - first:
+      213: 1046153490582031800
+    second: akatsuki_41
+  - first:
+      213: 1116391848137601461
+    second: akatsuki_42
+  - first:
+      213: 7975961076469828529
+    second: akatsuki_43
+  - first:
+      213: 4019748383571119036
+    second: akatsuki_44
+  - first:
+      213: 1485581066555488397
+    second: akatsuki_45
+  - first:
+      213: -4114595664331832997
+    second: akatsuki_46
+  - first:
+      213: 3219886641593286144
+    second: akatsuki_47
+  - first:
+      213: 2452830296808473846
+    second: akatsuki_48
+  - first:
+      213: 1940141535124251065
+    second: akatsuki_49
+  - first:
+      213: 8657764529176686462
+    second: akatsuki_50
+  - first:
+      213: 6628081859237610547
+    second: akatsuki_51
+  - first:
+      213: -6523185623239201081
+    second: akatsuki_52
+  - first:
+      213: 5161480196315826337
+    second: akatsuki_53
+  - first:
+      213: 9020049583455068635
+    second: akatsuki_54
+  - first:
+      213: -5639295741302270772
+    second: akatsuki_55
+  - first:
+      213: 2083410838594364353
+    second: akatsuki_56
+  - first:
+      213: -5642784326580166370
+    second: akatsuki_57
+  - first:
+      213: -7393904911273040340
+    second: akatsuki_58
+  - first:
+      213: -8164786617430032378
+    second: akatsuki_59
+  - first:
+      213: 6240244588522452147
+    second: akatsuki_60
+  - first:
+      213: -3779780016678719001
+    second: akatsuki_61
+  - first:
+      213: -1377447496615825930
+    second: akatsuki_62
+  - first:
+      213: -3957449428492063762
+    second: akatsuki_63
+  - first:
+      213: -2524023890996519993
+    second: akatsuki_64
+  - first:
+      213: 1997621795979033203
+    second: akatsuki_65
+  - first:
+      213: -530983499766779520
+    second: akatsuki_66
+  - first:
+      213: 7984246082733377213
+    second: akatsuki_67
+  - first:
+      213: -1430933785354650828
+    second: akatsuki_68
+  - first:
+      213: -4082930352768653535
+    second: akatsuki_69
+  - first:
+      213: 3351811040399646939
+    second: akatsuki_70
+  - first:
+      213: 6943823733802993323
+    second: akatsuki_71
+  - first:
+      213: -8327969263708259241
+    second: akatsuki_72
+  - first:
+      213: -8085934415140151018
+    second: akatsuki_73
+  - first:
+      213: 874272810070967404
+    second: akatsuki_74
+  - first:
+      213: 773999925479484960
+    second: akatsuki_75
+  - first:
+      213: 3323364601549223375
+    second: akatsuki_76
+  - first:
+      213: -8516475178264500358
+    second: akatsuki_77
+  - first:
+      213: -3792866536232646933
+    second: akatsuki_78
+  - first:
+      213: 263798360958949825
+    second: akatsuki_79
+  - first:
+      213: 4593600024147312552
+    second: akatsuki_80
+  - first:
+      213: -5358149575033965250
+    second: akatsuki_81
+  - first:
+      213: 1857401916109548418
+    second: akatsuki_82
+  - first:
+      213: -2755457612510870914
+    second: akatsuki_83
+  - first:
+      213: -2703994800253440419
+    second: akatsuki_84
+  - first:
+      213: 5160118355447022283
+    second: akatsuki_85
+  - first:
+      213: 5734045669595241672
+    second: akatsuki_86
+  - first:
+      213: -1548119801134407031
+    second: akatsuki_87
+  - first:
+      213: 4695690160019170503
+    second: akatsuki_88
+  - first:
+      213: 3038214839460494663
+    second: akatsuki_89
+  - first:
+      213: -1541737263280496506
+    second: akatsuki_90
+  - first:
+      213: -8817386252262715188
+    second: akatsuki_91
+  - first:
+      213: 6671766196626122571
+    second: akatsuki_92
+  - first:
+      213: -6680258595810691123
+    second: akatsuki_93
+  - first:
+      213: 6767454787207315251
+    second: akatsuki_94
+  - first:
+      213: 1701078034938214834
+    second: akatsuki_95
+  - first:
+      213: 367658894876025185
+    second: akatsuki_96
+  - first:
+      213: 2211811335295599454
+    second: akatsuki_97
+  - first:
+      213: -1989714872823239869
+    second: akatsuki_98
+  - first:
+      213: -351946474812675738
+    second: akatsuki_99
+  - first:
+      213: -185932128941404791
+    second: akatsuki_100
+  - first:
+      213: 7330884358842774707
+    second: akatsuki_101
+  - first:
+      213: -4819814272129641049
+    second: akatsuki_102
+  - first:
+      213: -944333555143876023
+    second: akatsuki_103
+  - first:
+      213: 5792848554550039918
+    second: akatsuki_104
+  - first:
+      213: 469330390345324085
+    second: akatsuki_105
+  - first:
+      213: -7905750980426625741
+    second: akatsuki_106
+  - first:
+      213: 4183207140439520412
+    second: akatsuki_107
+  - first:
+      213: -256877902768307298
+    second: akatsuki_108
+  - first:
+      213: 251022688824055891
+    second: akatsuki_109
+  - first:
+      213: -1177200886411594845
+    second: akatsuki_110
+  - first:
+      213: -4975216653975705564
+    second: akatsuki_111
+  - first:
+      213: 4182562277003436964
+    second: akatsuki_112
+  - first:
+      213: -1904694379759542192
+    second: akatsuki_113
+  - first:
+      213: 775346664643135424
+    second: akatsuki_114
+  - first:
+      213: -2909073463516957532
+    second: akatsuki_115
+  - first:
+      213: -6805279130250916672
+    second: akatsuki_116
+  - first:
+      213: -5361923922917658419
+    second: akatsuki_117
+  - first:
+      213: 1550406581906149356
+    second: akatsuki_118
+  - first:
+      213: -2799105434200738650
+    second: akatsuki_119
+  - first:
+      213: 7552758953923660878
+    second: akatsuki_120
+  - first:
+      213: 1077248021331276621
+    second: akatsuki_121
+  - first:
+      213: -318495573346395713
+    second: akatsuki_122
+  - first:
+      213: -4022536986283896145
+    second: akatsuki_123
+  - first:
+      213: 2728069951788820646
+    second: akatsuki_124
+  - first:
+      213: -852730539293992182
+    second: akatsuki_125
+  - first:
+      213: -5440865551391180954
+    second: akatsuki_126
+  - first:
+      213: -5254745135484790123
+    second: akatsuki_127
+  - first:
+      213: 7670822445406805097
+    second: akatsuki_128
+  - first:
+      213: 5364821892074375176
+    second: akatsuki_129
+  - first:
+      213: -3327714772388880789
+    second: akatsuki_130
+  - first:
+      213: 8639777674893094791
+    second: akatsuki_131
+  - first:
+      213: -921656508680842207
+    second: akatsuki_132
+  - first:
+      213: 3645583981505815611
+    second: akatsuki_133
+  - first:
+      213: 5445399623203813292
+    second: akatsuki_134
+  - first:
+      213: 4479812005160175766
+    second: akatsuki_135
+  - first:
+      213: -3593476435264978163
+    second: akatsuki_136
+  - first:
+      213: -2219335615827477121
+    second: akatsuki_137
+  - first:
+      213: 3551766186977092964
+    second: akatsuki_138
+  - first:
+      213: 1453761996674917560
+    second: akatsuki_139
+  - first:
+      213: -5091036667825808263
+    second: akatsuki_140
+  - first:
+      213: 8543457455303634531
+    second: akatsuki_141
+  - first:
+      213: -8764698936238396681
+    second: akatsuki_142
+  - first:
+      213: -3978304519040436681
+    second: akatsuki_143
+  - first:
+      213: 3151180686905044637
+    second: akatsuki_144
+  - first:
+      213: -2797956711119475219
+    second: akatsuki_145
+  - first:
+      213: -6442775039036276941
+    second: akatsuki_146
+  - first:
+      213: 3483149966606219777
+    second: akatsuki_147
+  - first:
+      213: 2837123038641436201
+    second: akatsuki_148
+  - first:
+      213: 7188081436500236303
+    second: akatsuki_149
+  - first:
+      213: -51776085898879603
+    second: akatsuki_150
+  - first:
+      213: -7835293021518027320
+    second: akatsuki_151
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: akatsuki_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 494
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6810c4fe7459ee520800000000000000
+      internalID: 2733286160050422150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 494
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03f5ec870be445c0800000000000000
+      internalID: -4231999332160244982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_2
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 494
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0c4d13a6c173210800000000000000
+      internalID: 1312549058829926580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 494
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8839f2933c19c2760800000000000000
+      internalID: 7434477352545915784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_4
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 494
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf35cf0b64f39bfc0800000000000000
+      internalID: -3478679664317410309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 494
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d348cb9e8534070800000000000000
+      internalID: 8089407116600950025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_6
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 484
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdab3861efda0330800000000000000
+      internalID: 3677998204910808574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_7
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 484
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b65ee191c04e9ef0800000000000000
+      internalID: -99570941634390345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_8
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 484
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcb65f17517ec040800000000000000
+      internalID: 4669794482631654583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_9
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 483
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d736ec85b947b790800000000000000
+      internalID: -7514456409142577192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_10
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 489
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0c5c5db6429d1a0800000000000000
+      internalID: -6784351318090334021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_11
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 489
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50645995425d4ef0800000000000000
+      internalID: -122351155990470566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_12
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 489
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47af435fc6f75d0a0800000000000000
+      internalID: -6857434751654626700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_13
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 489
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74eeef43a93fb35e0800000000000000
+      internalID: -1928680171758490041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_14
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 489
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6904b402016890c50800000000000000
+      internalID: 6631979330099167382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_15
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 489
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928c4767664b70350800000000000000
+      internalID: 5982948982152022057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_16
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 489
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc484d31ba064000800000000000000
+      internalID: 19715004723383477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_17
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 489
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c41d7a911398370800000000000000
+      internalID: 8325239372430527517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_18
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 489
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039e4c6bc51806a50800000000000000
+      internalID: 6512347296381069616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_19
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 489
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98667b4cbbcd64d80800000000000000
+      internalID: -8266677366974617975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_20
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 489
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cae5817b75047b0800000000000000
+      internalID: -5242093522359768049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_21
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 489
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398732bb77f85e9f0800000000000000
+      internalID: -439787644195211117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_22
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 486
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1019835a2141360800000000000000
+      internalID: 7139351810117009918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_23
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 489
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb7d4aaec757cb70800000000000000
+      internalID: 8919194132162640838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_24
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 489
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6cd69e2753fb5c0800000000000000
+      internalID: -4197577560027183386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_25
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 489
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bdfe6e59c0cb860800000000000000
+      internalID: 7546920913530248050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_26
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 489
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065e9abce30eb98a0800000000000000
+      internalID: -6297193093638003360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_27
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 489
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e6c4df51987f370800000000000000
+      internalID: 8356298361146207811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_28
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 489
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c24b1920c805700800000000000000
+      internalID: 527075099064675451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_29
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 489
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0e86c3dd56be080800000000000000
+      internalID: -9157113416452087626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_30
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 489
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1c73e99671e98d0800000000000000
+      internalID: -2837804972803374628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_31
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 428
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1998d1ade96844d50800000000000000
+      internalID: 6720644560765946257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_32
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 427
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23937c5a8b4ce4d40800000000000000
+      internalID: 5570606086438205746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_33
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 427
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07affc7d6b69aec0800000000000000
+      internalID: -3555192312839559414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_34
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 427
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b381dbf9861b3260800000000000000
+      internalID: 7078276021234009012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_35
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 470
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e396741f79cffbff0800000000000000
+      internalID: -18018143967942338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_36
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 470
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4c3aa8925e9fdf0800000000000000
+      internalID: -145833546330422088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_37
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 470
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cada8693ba76610800000000000000
+      internalID: 1614447254493309997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_38
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 470
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fa9b3aa1577f250800000000000000
+      internalID: 5978375787634077509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_39
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 470
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5fd653f7eaad9e0800000000000000
+      internalID: -1595771256568941123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_40
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 467
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26075f7932398e70800000000000000
+      internalID: 9117874143119214127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_41
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 470
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd4da29e0fa48e00800000000000000
+      internalID: 1046153490582031800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_42
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 470
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1326298783e7f00800000000000000
+      internalID: 1116391848137601461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_43
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 470
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb8351375e40be60800000000000000
+      internalID: 7975961076469828529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_44
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 451
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb05397bd309c730800000000000000
+      internalID: 4019748383571119036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_45
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 451
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88f51deb18dd9410800000000000000
+      internalID: 1485581066555488397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_46
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 451
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5183291b0506e6c0800000000000000
+      internalID: -4114595664331832997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_47
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 451
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e713147d55fac20800000000000000
+      internalID: 3219886641593286144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_48
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 451
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4c597c8243a0220800000000000000
+      internalID: 2452830296808473846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_49
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 451
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1ef076274ccea10800000000000000
+      internalID: 1940141535124251065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_50
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 451
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fad8ee7fe862870800000000000000
+      internalID: 8657764529176686462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_51
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 451
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334811a755dabfb50800000000000000
+      internalID: 6628081859237610547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_52
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 451
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce64eaac3df875a0800000000000000
+      internalID: -6523185623239201081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_53
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 451
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a84e9054e241a740800000000000000
+      internalID: 5161480196315826337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_54
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 451
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1ef3e4e47ad2d70800000000000000
+      internalID: 9020049583455068635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_55
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 451
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc41e4cc6623db1b0800000000000000
+      internalID: -5639295741302270772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_56
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 451
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3ad9b8e13c9ec10800000000000000
+      internalID: 2083410838594364353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_57
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 451
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e112c0e3d8dc0b1b0800000000000000
+      internalID: -5642784326580166370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_58
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 451
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26ed8468a2936990800000000000000
+      internalID: -7393904911273040340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_59
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 451
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600483194d9d0be80800000000000000
+      internalID: -8164786617430032378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_60
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 451
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b43f6a146dc99650800000000000000
+      internalID: 6240244588522452147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_61
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 399
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1beb8d9168b8bc0800000000000000
+      internalID: -3779780016678719001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_62
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 399
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd6673ccc252ece0800000000000000
+      internalID: -1377447496615825930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_63
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 399
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb682656b05419c0800000000000000
+      internalID: -3957449428492063762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_64
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 353
+        width: 190
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb9d8cd4add8fcd0800000000000000
+      internalID: -2524023890996519993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_65
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 325
+        width: 20
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a78e8807af8bb10800000000000000
+      internalID: 1997621795979033203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_66
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 325
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081becaf15191a8f0800000000000000
+      internalID: -530983499766779520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_67
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 326
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db680a8828dbdce60800000000000000
+      internalID: 7984246082733377213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_68
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 326
+        width: 19
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43bb4dabd4d442ce0800000000000000
+      internalID: -1430933785354650828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_69
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 376
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1276098f9748657c0800000000000000
+      internalID: -4082930352768653535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_70
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 376
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0e041f166048e20800000000000000
+      internalID: 3351811040399646939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_71
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 376
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6014c55ea6d5060800000000000000
+      internalID: 6943823733802993323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_72
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 323
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c3c40041c1d6c80800000000000000
+      internalID: -8327969263708259241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_73
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 323
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61127749d7df8cf80800000000000000
+      internalID: -8085934415140151018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_74
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 322
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6400191d7a022c00800000000000000
+      internalID: 874272810070967404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_75
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 321
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e2266d4dccdba00800000000000000
+      internalID: 773999925479484960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_76
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 298
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5f2764f76fe1e20800000000000000
+      internalID: 3323364601549223375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_77
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 298
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77ec1592f66fc980800000000000000
+      internalID: -8516475178264500358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_78
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 298
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be603631bf70d5bc0800000000000000
+      internalID: -3792866536232646933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_79
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 298
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9d94d263339a300800000000000000
+      internalID: 263798360958949825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_80
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 298
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afb68f42eebfbf30800000000000000
+      internalID: 4593600024147312552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_81
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 298
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35b0b6a95704a5b0800000000000000
+      internalID: -5358149575033965250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_82
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 232
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28be6d6a331d6c910800000000000000
+      internalID: 1857401916109548418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_83
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 230
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72c4a486e5a2c9d0800000000000000
+      internalID: -2755457612510870914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_84
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 231
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ee3683e0b797ad0800000000000000
+      internalID: -2703994800253440419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_85
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 232
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc284670e4c6c9740800000000000000
+      internalID: 5160118355447022283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_86
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 231
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc571ef72c639f40800000000000000
+      internalID: 5734045669595241672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_87
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 231
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982a2af3e39f38ae0800000000000000
+      internalID: -1548119801134407031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_88
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 228
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c46d3b52517a2140800000000000000
+      internalID: 4695690160019170503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_89
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 227
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74dfc51ac48e92a20800000000000000
+      internalID: 3038214839460494663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_90
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 227
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680ee25a026aa9ae0800000000000000
+      internalID: -1541737263280496506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_91
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 227
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0d77a8be952a580800000000000000
+      internalID: -8817386252262715188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_92
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 195
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47eb5ed100e69c50800000000000000
+      internalID: 6671766196626122571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_93
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 195
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc734fc5334fa43a0800000000000000
+      internalID: -6680258595810691123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_94
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 195
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f32010644daed50800000000000000
+      internalID: 6767454787207315251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_95
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 192
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b936b7c5717b9710800000000000000
+      internalID: 1701078034938214834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_96
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 200
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161299321df2a1500800000000000000
+      internalID: 367658894876025185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_97
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 200
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e530a76d0bee1be10800000000000000
+      internalID: 2211811335295599454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_98
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 200
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b2f097ddc1364e0800000000000000
+      internalID: -1989714872823239869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_99
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 200
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669e6dcbb82ad1bf0800000000000000
+      internalID: -351946474812675738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_100
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 197
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d8d1eb6bf6b6df0800000000000000
+      internalID: -185932128941404791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_101
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 200
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b47a42db788cb560800000000000000
+      internalID: 7330884358842774707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_102
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 124
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5da5ab4749c1db0800000000000000
+      internalID: -4819814272129641049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_103
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 123
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942ea2882ad05e2f0800000000000000
+      internalID: -944333555143876023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_104
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 122
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65179b8115546050800000000000000
+      internalID: 5792848554550039918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_105
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 125
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53614ded085638600800000000000000
+      internalID: 469330390345324085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_106
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 126
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d89f8ae51294290800000000000000
+      internalID: -7905750980426625741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_107
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 132
+        width: 63
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9476cb0bbcbd0a30800000000000000
+      internalID: 4183207140439520412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_108
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 127
+        width: 66
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9309de88e26f6cf0800000000000000
+      internalID: -256877902768307298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_109
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 87
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358dbe53ecfcb7300800000000000000
+      internalID: 251022688824055891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_110
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 87
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a37928e70eb9afe0800000000000000
+      internalID: -1177200886411594845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_111
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 87
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428ab2320da74fab0800000000000000
+      internalID: -4975216653975705564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_112
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 84
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a32db31b327b0a30800000000000000
+      internalID: 4182562277003436964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_113
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 87
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050efb89d8a2195e0800000000000000
+      internalID: -1904694379759542192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_114
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 87
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c786dbfea592ca00800000000000000
+      internalID: 775346664643135424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_115
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 87
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a47e8d0915e0a7d0800000000000000
+      internalID: -2909073463516957532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_116
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 87
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccc30cdfaace81a0800000000000000
+      internalID: -6805279130250916672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_117
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 87
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0f2ddc99e9695b0800000000000000
+      internalID: -5361923922917658419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_118
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 87
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef81f36296248510800000000000000
+      internalID: 1550406581906149356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_119
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 87
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4799910749729d0800000000000000
+      internalID: -2799105434200738650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_120
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 87
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c45ca904ac0d860800000000000000
+      internalID: 7552758953923660878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_121
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 84
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43717e2e5723fe00800000000000000
+      internalID: 1077248021331276621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_122
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 87
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb95728a6f9749bf0800000000000000
+      internalID: -318495573346395713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_123
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 87
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa29dac5ce31d28c0800000000000000
+      internalID: -4022536986283896145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_124
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 87
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a82aceca2d0cd520800000000000000
+      internalID: 2728069951788820646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_125
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 87
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b114ca71e7a24f0800000000000000
+      internalID: -852730539293992182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_126
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 87
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6673ba2ab992e74b0800000000000000
+      internalID: -5440865551391180954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_127
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 87
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a973ed3256317b0800000000000000
+      internalID: -5254745135484790123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_128
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 87
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96cd0915f5c347a60800000000000000
+      internalID: 7670822445406805097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_129
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 87
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8080558361da37a40800000000000000
+      internalID: 5364821892074375176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_130
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 87
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ed0f5ab0591d1d0800000000000000
+      internalID: -3327714772388880789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_131
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 87
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f6a521508a6e770800000000000000
+      internalID: 8639777674893094791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_132
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 84
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124d62bd94e9533f0800000000000000
+      internalID: -921656508680842207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_133
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 87
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b342288e057b79230800000000000000
+      internalID: 3645583981505815611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_134
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 87
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7fb193b12f19b40800000000000000
+      internalID: 5445399623203813292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_135
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 87
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6984a1c984d7b2e30800000000000000
+      internalID: 4479812005160175766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_136
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 87
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d034b4f9838612ec0800000000000000
+      internalID: -3593476435264978163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_137
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 87
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7dfa3514065331e0800000000000000
+      internalID: -2219335615827477121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_138
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 87
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465630c67886a4130800000000000000
+      internalID: 3551766186977092964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_139
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 87
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b465c765dccc2410800000000000000
+      internalID: 1453761996674917560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_140
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 87
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c11c3cf110959b0800000000000000
+      internalID: -5091036667825808263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_141
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 87
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e29095a45709670800000000000000
+      internalID: 8543457455303634531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_142
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 87
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa244e31c88d5680800000000000000
+      internalID: -8764698936238396681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_143
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 17
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736734e2e193ac8c0800000000000000
+      internalID: -3978304519040436681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_144
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 15
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9eeb0a932e3bbb20800000000000000
+      internalID: 3151180686905044637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_145
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 72
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedadc80239ab29d0800000000000000
+      internalID: -2797956711119475219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_146
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 17
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f3d7ebc3aa696a0800000000000000
+      internalID: -6442775039036276941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_147
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 16
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a3afaa072a65030800000000000000
+      internalID: 3483149966606219777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_148
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 16
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926bc463f5c7f5720800000000000000
+      internalID: 2837123038641436201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_149
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 17
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f081d2f7bf131c360800000000000000
+      internalID: 7188081436500236303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_150
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 17
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d13289ced084ff0800000000000000
+      internalID: -51776085898879603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akatsuki_151
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 18
+        width: 63
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c522559282734390800000000000000
+      internalID: -7835293021518027320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
