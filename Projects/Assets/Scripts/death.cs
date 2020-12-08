@@ -7,8 +7,9 @@ public class death : MonoBehaviour
 {
     public bool isDead;
     public int minHeight = -20;
+
     public int lives = 3;
- 
+    public float invincible = 2;
     // Start is called before the first frame update
     void Start()
     {
@@ -19,10 +20,7 @@ public class death : MonoBehaviour
     void Update()
     {
         if( gameObject.transform.position.y < minHeight){
-            lives = lives - 1;
-            if (lives == 0){
-                lives = 3;
-            }
+            lives = 3;
             isDead = true;
         }
  
@@ -35,4 +33,21 @@ public class death : MonoBehaviour
         SceneManager.LoadScene ("Game");
          return null;
     }
+
+    void hurt(){
+        lives --;
+        if(lives <= 0){
+            isDead = true;
+        }
+    }
+
+    void OnCollisionEnter2D(Collision2D collision){
+        patrol enemy = collision.collider.GetComponent<patrol>();
+        if(enemy != null){
+            hurt();
+        }
+    
+    }
+    
+    
 }
