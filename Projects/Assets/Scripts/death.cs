@@ -49,5 +49,26 @@ public class death : MonoBehaviour
     
     }
     
+    // public void triggerHurt(float hurtTime){
+    //     StartCoroutine(hurtBlinker(hurtTime));
+    // }
+    // IEnumerator hurtBlinker(float hurtTime){
+    //     //ignore collision
+    //     int playerLayer = LayerMask.NameToLayer("People");
+    //     int enemyLayer = LayerMask.NameToLayer("Enemy");
+    //     Physics2D.IgnoreLayerCollision(enemyLayer, playerLayer);
+
+    //     //start hurt animation
+    //     myAnim.SetLayerWeight(1,1);
+
+    //     //wait
+    //     yield return new WaitForSeconds(hurtTime);
+
+    //     //Stop Blinking (hurt)
+    //     Physics2D.IgnoreLayerCollision(enemyLayer, playerLayer, false);
+    //     myAnim.SetLayerWeight(1,0);
+
+
+    // }
     
 }
