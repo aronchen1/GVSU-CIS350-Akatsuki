@@ -16,11 +16,11 @@ The purpose of this document is to showcase our specfic requirements to have for
 	1. This game shall play music when the Title screen is loaded.
 
 
-###<Title Screen/Main Menu>
+### Title Screen/Main Menu
 | ID | Requirement | Test Cases |
 | :-------------: | :----------: | :----------: |
-| FR1 | <This game shall allow the player to exit the game.> | TBD |
-| FR2 | <This game shall let the user start a game thorugh the main menu.> | TBD |
+| FR1 | This game shall allow the player to exit the game. | TBD |
+| FR2 | This game shall let the user start a game thorugh the main menu. | TBD |
 | FR3 | <This game shall allow the user to adjust the in-game volume through the main menu.> | TBD |
 | FR4 | <This game shall generate a pre-made level when pressing the start button in the main menu.> | TBD |
 | FR5 | <This game shall play music when the Title screen is loaded.> | TBD |
