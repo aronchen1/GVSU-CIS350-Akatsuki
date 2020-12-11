@@ -28,10 +28,12 @@ The purpose of this document is to showcase our specfic requirements to have for
 | FR10 | This game shall allow the user to jump if the character in-game is touching the ground. | TBD |
 
 
-1. Respawn System
-	1. Touching an enemy shall send the character back to the start of the level.
-	1. Falling off the map shall send the character back to the start of the level.
-	1. Getting hit by an item thrown by the enemy shall send the character to the start of the level.
+## Respawn System
+| ID | Requirement | Test Cases |
+| :-------------: | :----------: | :----------: |
+| FR1 | Touching an enemy shall send the character back to the start of the leve.| TBD |
+| FR2 | Falling off the map shall send the character back to the start of the level. | TBD |
+| FR3 | Getting hit by an item thrown by the enemy shall send the character to the start of the level. | TBD |
 
 
 ### Pause Menu
@@ -47,12 +49,7 @@ The purpose of this document is to showcase our specfic requirements to have for
 
 # Non-Functionals
 
-1. System Requirements
-	1. This program shall display a screen with a 2-D field of vision.
-	1. The system shall remember the user's best score.
-	1. The game shall run on any modern computer system.
-	1. The frames per second in this game shall be at a maximum of 60.
-	1. The reset time after a failed attempt shall be less than 5 seconds.
+(add here)
 
 ## Non-Functional Requirements
 
