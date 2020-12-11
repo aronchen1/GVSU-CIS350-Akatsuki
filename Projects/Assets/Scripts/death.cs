@@ -7,8 +7,9 @@ public class death : MonoBehaviour
 {
     public bool isDead;
     public int minHeight = -20;
+
     public int lives = 3;
- 
+    public float invincible = 2;
     // Start is called before the first frame update
     void Start()
     {
@@ -19,10 +20,7 @@ public class death : MonoBehaviour
     void Update()
     {
         if( gameObject.transform.position.y < minHeight){
-            lives = lives - 1;
-            if (lives == 0){
-                lives = 3;
-            }
+            lives = 3;
             isDead = true;
         }
  
@@ -35,4 +33,42 @@ public class death : MonoBehaviour
         SceneManager.LoadScene ("Game");
          return null;
     }
+
+    void hurt(){
+        lives --;
+        if(lives <= 0){
+            isDead = true;
+        }
+    }
+
+    void OnCollisionEnter2D(Collision2D collision){
+        patrol enemy = collision.collider.GetComponent<patrol>();
+        if(enemy != null){
+            hurt();
+        }
+    
+    }
+    
+    // public void triggerHurt(float hurtTime){
+    //     StartCoroutine(hurtBlinker(hurtTime));
+    // }
+    // IEnumerator hurtBlinker(float hurtTime){
+    //     //ignore collision
+    //     int playerLayer = LayerMask.NameToLayer("People");
+    //     int enemyLayer = LayerMask.NameToLayer("Enemy");
+    //     Physics2D.IgnoreLayerCollision(enemyLayer, playerLayer);
+
+    //     //start hurt animation
+    //     myAnim.SetLayerWeight(1,1);
+
+    //     //wait
+    //     yield return new WaitForSeconds(hurtTime);
+
+    //     //Stop Blinking (hurt)
+    //     Physics2D.IgnoreLayerCollision(enemyLayer, playerLayer, false);
+    //     myAnim.SetLayerWeight(1,0);
+
+
+    // }
+    
 }

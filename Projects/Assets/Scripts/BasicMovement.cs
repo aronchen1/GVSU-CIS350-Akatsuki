@@ -4,7 +4,8 @@ using UnityEngine;
 
 public class BasicMovement : MonoBehaviour {
     public float moveSpeed = 5f;
-    public bool isGrounded = false;
+    public bool isGrounded;
+
     public Animator animator;
 
     void Update()
@@ -33,17 +34,19 @@ public class BasicMovement : MonoBehaviour {
 
     void jump()
     {
-        if (Input.GetButtonDown("Jump") && isGrounded == false)
+        if (Input.GetButtonDown("Jump") && isGrounded == true)
         {
             gameObject.GetComponent<Rigidbody2D>().AddForce(new Vector2(0f, 5f), ForceMode2D.Impulse);
             animator.SetBool("isGrounded", true);
         }
 
+        else
+        {
+            animator.SetBool("isGrounded", false);
+        }
+
 
     }
 
-    public void OnLanding()
-    {
-        animator.SetBool("isGrounded", false);
-    }
+    
 }
