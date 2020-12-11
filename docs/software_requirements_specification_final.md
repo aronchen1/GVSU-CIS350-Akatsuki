@@ -2,11 +2,11 @@
 
 The purpose of this document is to showcase our specfic requirements to have for our product. From the specifications of this document our players will be able to strategize and learn problem solving skills while playing the game. Also from this document we follow the gaming industries standards by having a stable game across the board.
 
-#Software Requirements
+# Software Requirements
 
 (add here)
 	
-#Functionial
+# Functionial
 
 ### Title Screen/Main Menu
 | ID | Requirement | Test Cases |
