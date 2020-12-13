@@ -107,7 +107,7 @@ The purpose of this document is to showcase our specfic requirements to have for
 
 This section provides hyperlinks to all artifacts developed for this project.
 
-* [Mobility Use Case Diagram](https://github.com/calebpoe00/GVSU-CIS350-Akatsuki/blob/master/artifacts/use_case_diagrams/use_case_diagram_Mobility.png)
-* [Encountering Enemies Use Case Diagram](https://github.com/calebpoe00/GVSU-CIS350-Akatsuki/blob/master/artifacts/use_case_diagrams/use_case_diagrams_Encountering_Enemies.png)
-* [Main Menu Use Case Diagram](https://github.com/calebpoe00/GVSU-CIS350-Akatsuki/blob/master/artifacts/use_case_diagrams/use_case_diagram_mainMenu.png)
+* [Mobility Use Case Diagram](https://github.com/calebpoe00/GVSU-CIS350-Akatsuki/blob/master/artifacts/use_case_diagrams/use_case_diagram_Mobility.png?raw=true)
+* [Encountering Enemies Use Case Diagram](https://github.com/calebpoe00/GVSU-CIS350-Akatsuki/blob/master/artifacts/use_case_diagrams/use_case_diagrams_Encountering_Enemies.png?raw=true)
+* [Main Menu Use Case Diagram](https://github.com/calebpoe00/GVSU-CIS350-Akatsuki/blob/master/artifacts/use_case_diagrams/use_case_diagram_mainMenu.png?raw=true)
 * [Main Menu Extended](https://github.com/calebpoe00/GVSU-CIS350-Akatsuki/blob/master/artifacts/use_case_diagrams/main_menu_extended.md)
