@@ -98,3 +98,16 @@ The purpose of this document is to showcase our specfic requirements to have for
 | TC8 | Testing the volume slider | Slide the volume slider | The sound variable 0-1 | Volume should match the slider variable | Volume did match the slider varaible | Pass | FR3 |
 | TC9 | Pressing ESC key should pause the game | Press ESC key | ESC Key | Game should be paused | Game was paused | Pass | FR11 |
 | TC10 | Pressing Resume should trigger event | Pause the game, Press resume | ESC Key, Left mouse click on Resume button | Button is pressed and event starts | button was pressed and event started | Pass | FR14 |
+
+## Integration tests
+
+## System tests
+
+# Software Artifacts
+
+This section provides hyperlinks to all artifacts developed for this project.
+
+* [Mobility Use Case Diagram](https://github.com/calebpoe00/GVSU-CIS350-Akatsuki/blob/master/artifacts/use_case_diagrams/use_case_diagram_Mobility.png)
+* [Encountering Enemies Use Case Diagram](https://github.com/calebpoe00/GVSU-CIS350-Akatsuki/blob/master/artifacts/use_case_diagrams/use_case_diagrams_Encountering_Enemies.png)
+* [Main Menu Use Case Diagram](https://github.com/calebpoe00/GVSU-CIS350-Akatsuki/blob/master/artifacts/use_case_diagrams/use_case_diagram_mainMenu.png)
+* [Main Menu Extended](https://github.com/calebpoe00/GVSU-CIS350-Akatsuki/blob/master/artifacts/use_case_diagrams/main_menu_extended.md)
