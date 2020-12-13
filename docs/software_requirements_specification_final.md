@@ -88,20 +88,36 @@ The purpose of this document is to showcase our specfic requirements to have for
 
 | ID | Description | Steps | Input Values | Expected Output | Actual Output | Pass/Fail | Requirement Link |
 | :-------------: | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: |
-| TC1 | Testing to see if player moves right when pressing right arrow key. | Press right arrow key | Right arrow key | Player should move right | Player did move right | Pass | FR6 |
-| TC2 | Testing to see if player moves left when pressing left arrow key. | Press left arrow key | Left arrow key | Player shall move left | Player did move left | Pass | FR7 |
-| TC3 | Testing to see if the player jumps when pressing the spacebar. | Press Spacebar | Spacebar Key | Player should jump | Player did jump | Pass | FR8 |
+| TC1 | If player moves right when pressing right arrow key. | Press right arrow key | Right arrow key | Player should move right | Player did move right | Pass | FR6 |
+| TC2 | If player moves left when pressing left arrow key. | Press left arrow key | Left arrow key | Player shall move left | Player did move left | Pass | FR7 |
+| TC3 | If the player jumps when pressing the spacebar. | Press Spacebar | Spacebar Key | Player should jump | Player did jump | Pass | FR8 |
 | TC4 | Testing to see if the player only jumps when touching the ground. | Player on the ground, then jump | Spacebar key | Player should jump while on ground | Player did jump | pass | FR10 |
 | TC5 | If the player is airborn, then the player should not be able to jump again. | Jump, then try jumping again whilie airborne | Spacebar key | Should not be able to jump | Did not jump | Pass | FR10 |
-| TC6 | Testing the start button. | Press the start button | Left Mouse click, Start button | Button is pressed and event starts | Button was pressed and event started | Pass | (requirement IDs this test case is linked to) |
-| TC7 | Testing Quit Button | Left click on mouse while over Quit Game button | Left Mouse Click, Quit Button | Button is Pressed and event starts | Button was pressed and event started | Pass | (requirement IDs this test case is linked to) |
-| TC8 | Testing the volume slider | Slide the volume slider | The sound variable 0-1 | Volume should match the slider variable | Volume did match the slider varaible | Pass | FR3 |
-| TC9 | Pressing ESC key should pause the game | Press ESC key | ESC Key | Game should be paused | Game was paused | Pass | FR11 |
-| TC10 | Pressing Resume should trigger event | Pause the game, Press resume | ESC Key, Left mouse click on Resume button | Button is pressed and event starts | button was pressed and event started | Pass | FR14 |
+| TC6 | Pressing start button should trigger an event | Press the start button | Left Mouse click, Start button | Button is pressed and event starts | Button was pressed and event started | Pass | (requirement IDs this test case is linked to) |
+| TC7 | Pressing Quit Game button should trigger an event | Left click on mouse while over Quit Game button | Left Mouse Click, Quit Button | Button is Pressed and event starts | Button was pressed and event started | Pass | (requirement IDs this test case is linked to) |
+| TC8 | Testing volume slider | Slide the volume slider | The sound variable 0-1 | Volume should match the slider variable | Volume did match the slider varaible | Pass | FR3 |
+| TC9 | Pressing ESC key should trigger an event | Press ESC key | ESC Key | Button pressed and event starts | Button was pressed event was triggered | Pass | FR11 |
+| TC10 | Pressing Resume should trigger an event | Pause the game, Press resume | ESC Key, Left mouse click on Resume button | Button is pressed and event starts | button was pressed and event started | Pass | FR14 |
 
 ## Integration tests
 
+| ID | Description | Steps | Input Values | Expected Output | Actual Output | Pass/Fail | Requirement Link |
+| :-------------: | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: |
+| TC11 | (TC1 description) | (steps to execute TC1) | (input values to this test case) | (expected output as a result of test case) | (actual output of test case) | (did it pass or fail?) | (requirement IDs this test case is linked to) |
+| TC12 | (TC2 description) | (steps to execute TC2) | (input values to this test case) | (expected output as a result of test case) | (actual output of test case) | (did it pass or fail?) | (requirement IDs this test case is linked to) |
+| TC13 | (TC3 description) | (steps to execute TC3) | (input values to this test case) | (expected output as a result of test case) | (actual output of test case) | (did it pass or fail?) | (requirement IDs this test case is linked to) |
+| TC14 | (TC4 description) | (steps to execute TC4) | (input values to this test case) | (expected output as a result of test case) | (actual output of test case) | (did it pass or fail?) | (requirement IDs this test case is linked to) |
+| TC15 | (TC5 description) | (steps to execute TC5) | (input values to this test case) | (expected output as a result of test case) | (actual output of test case) | (did it pass or fail?) | (requirement IDs this test case is linked to) |
+
 ## System tests
+
+| ID | Description | Steps | Input Values | Expected Output | Actual Output | Pass/Fail | Requirement Link |
+| :-------------: | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: |
+| TC16 | Pressing start button starts the game | Left mouse click on start button | Start game button,Left mouse click | The game should start | The game was started | Pass | FR2 |
+| TC17 | Pressing Quit Game button should fully exit application | Left mouse click on Quit Game | Quit Game button | Application should fully exit | Application was fully exited | Pass | FR1 |
+| TC18 | Pressing ESC Key should pause the entire game | Press ESC key | ESC key | Entire game should be fully paused | Entire game was fully paused | Pass | FR11 |
+| TC19 | Pressing Resume button unpauses the entire game | Press Resume Button | Resume Button | Game is unpaused from paused state | Game was unpaused from the paused state | Pass | FR14 |
+| TC20 | Music Starts when the application is started | Start the build of the game | Left mouse click on build game | Music should start playing when the game is fired up | Music started playing when game was fired up | Pass | FR5 |
 
 # Software Artifacts
 
