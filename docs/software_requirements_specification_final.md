@@ -37,7 +37,8 @@ The purpose of this document is to showcase our specfic requirements to have for
 
 
 ### Pause Menu
-| ID | Requirement | Test Cases |
+| ID | Requ| TC20 | Music Starts when the application is started | Start the build of the game |  | (expected output as a result of test case) | (actual output of test case) | (did it pass or fail?) | (requirement IDs this test case is linked to) |
+irement | Test Cases |
 | :-------------: | :----------: | :----------: |
 | FR11 | This pause menu shall allow the user to pause the game. | TBD |
 | FR12 | This pause menu shall allow the user to fully exit the application. | TBD |
@@ -57,25 +58,28 @@ The purpose of this document is to showcase our specfic requirements to have for
 | ID | Requirement | Test Cases |
 | :-------------: | :----------: | :----------: |
 | NFR1 | This Program shall display a screen with a 2-D field of Vision. | TBD |
-| NFR2 | The system shall remember the user's best score. | TBD |
+| NFR2 | The system shall play music | TBD |
 | NFR3 | The game shall run on any modern computer system. | TBD |
 | NFR4 | The frames per second in this game shall be at a maximum of 60. | TBD |
 | NFR5 | The level reset time after a failed attempt shall be less than 5 seconds | TBD |
 
 
-1. User input
+1. User Interaction
 	1. This program shall take input from the keyboard to move a player.
 	1. This program shall take input from the mouse to navigate the menus.
-	1. 
-
-1. User Interface
+	1. This program shall take input from the keyboard to change the state of the game.
 	1. The title screen shall be easy to navigate for every user.
+	1. This program shall have an objective for the player to reach by moving through the level.
+
+
 
 1. Animation
 	1. The animation of failing shall be obvious but not overly dramatic.
+	1. The animation shall change when the player moves in different directions.
+	1. The animation shall change when the enemy moves in different directionss.
+	1. Animations shall not slow down the playbillity of the game.
+	1. Animations shall render immediately when the game is started. 
 
-1. User Experience
-	1. This program shall have an objective for the player to reach by moving through the level.
 
 
 
