@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7264911156079981220}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: LaunchPoint
   m_TagString: Untagged
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
@@ -45,7 +45,7 @@ GameObject:
   - component: {fileID: 7264911156744631278}
   - component: {fileID: 7264911156744631279}
   - component: {fileID: 7264911156744631276}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: shootingEnemy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -169,7 +169,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -199,7 +199,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   enemyMask:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 512
   speed: 0
 --- !u!114 &7264911156744631276
 MonoBehaviour:
