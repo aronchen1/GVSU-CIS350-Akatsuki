@@ -55,6 +55,7 @@ The purpose of this document is to showcase our specfic requirements to have for
 
 ### User Interaction
 | ID | Requirement | Test Cases |
+| :-------------: | :----------: | :----------: |
 | NFR6 | This program shall take input from the keyboard to move a player. | TBD |
 | NFR7 | This program shall take input from the mouse to navigate the menus. | TBD |
 | NFR8 | This program shall take input from the keyboard to change the state of the game. | TBD |
@@ -63,6 +64,7 @@ The purpose of this document is to showcase our specfic requirements to have for
 
 ### Animation
 | ID | Requirement | Test Cases |
+| :-------------: | :----------: | :----------: |
 | NFR11 | The animation of failing shall be obvious but not overly dramatic. | TBD |
 | NFR12 | The animation shall change when the player moves in different directions. | TBD |
 | NFR13 | The animation shall change when the enemy moves in different directionss. | TBD |
@@ -71,7 +73,7 @@ The purpose of this document is to showcase our specfic requirements to have for
 
 # Test Specification
 
-(Description of what this section is)
+This section describes the unit tests, integration tests, and system tests for our requirements.
 
 ## Unit tests
 
