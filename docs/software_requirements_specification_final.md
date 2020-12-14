@@ -4,9 +4,9 @@ The purpose of this document is to showcase our specfic requirements to have for
 
 # Software Requirements
 
-(add here)
+(describe the structure of this section)
 	
-# Functionial
+## Functionial Requirements
 
 ### Title Screen/Main Menu
 | ID | Requirement | Test Cases |
@@ -17,7 +17,6 @@ The purpose of this document is to showcase our specfic requirements to have for
 | FR4 | This game shall generate a pre-made level when pressing the start button in the main menu. | TBD |
 | FR5 | This game shall play music when the Title screen is loaded. | TBD |
 
-
 ### Character Movement
 | ID | Requirement | Test Cases |
 | :-------------: | :----------: | :----------: |
@@ -27,18 +26,8 @@ The purpose of this document is to showcase our specfic requirements to have for
 | FR9 | This game shall allow the user to control a sprite in-game. | TBD |
 | FR10 | This game shall allow the user to jump if the character in-game is touching the ground. | TBD |
 
-
-## Respawn System
-| ID | Requirement | Test Cases |
-| :-------------: | :----------: | :----------: |
-| FR1 | Touching an enemy shall send the character back to the start of the leve.| TBD |
-| FR2 | Falling off the map shall send the character back to the start of the level. | TBD |
-| FR3 | Getting hit by an item thrown by the enemy shall send the character to the start of the level. | TBD |
-
-
 ### Pause Menu
-| ID | Requ| TC20 | Music Starts when the application is started | Start the build of the game |  | (expected output as a result of test case) | (actual output of test case) | (did it pass or fail?) | (requirement IDs this test case is linked to) |
-irement | Test Cases |
+| ID | Requirement | Test Cases |
 | :-------------: | :----------: | :----------: |
 | FR11 | This pause menu shall allow the user to pause the game. | TBD |
 | FR12 | This pause menu shall allow the user to fully exit the application. | TBD |
@@ -46,11 +35,12 @@ irement | Test Cases |
 | FR14 | This pause menu shall allow the user to resume the game from the pause state. | TBD |
 | FR15 | This pause menu shall allow the user to exit to the Title Screen of the game. | TBD |
 
-
-
-# Non-Functionals
-
-(add here)
+### Respawn System
+| ID | Requirement | Test Cases |
+| :-------------: | :----------: | :----------: |
+| FR16 | Touching an enemy shall send the character back to the start of the level. | TBD |
+| FR17 | Falling off the map shall send the character back to the start of the level. | TBD |
+| FR18 | Getting hit by an item thrown by the enemy shall send the character to the start of the level. | TBD |
 
 ## Non-Functional Requirements
 
@@ -63,26 +53,21 @@ irement | Test Cases |
 | NFR4 | The frames per second in this game shall be at a maximum of 60. | TBD |
 | NFR5 | The level reset time after a failed attempt shall be less than 5 seconds | TBD |
 
+### User Interaction
+| ID | Requirement | Test Cases |
+| NFR6 | This program shall take input from the keyboard to move a player. | TBD |
+| NFR7 | This program shall take input from the mouse to navigate the menus. | TBD |
+| NFR8 | This program shall take input from the keyboard to change the state of the game. | TBD |
+| NFR9 | The title screen shall be easy to navigate for every user. | TBD |
+| NFR10 | This program shall have an objective for the player to reach by moving through the level. | TBD |
 
-1. User Interaction
-	1. This program shall take input from the keyboard to move a player.
-	1. This program shall take input from the mouse to navigate the menus.
-	1. This program shall take input from the keyboard to change the state of the game.
-	1. The title screen shall be easy to navigate for every user.
-	1. This program shall have an objective for the player to reach by moving through the level.
-
-
-
-1. Animation
-	1. The animation of failing shall be obvious but not overly dramatic.
-	1. The animation shall change when the player moves in different directions.
-	1. The animation shall change when the enemy moves in different directionss.
-	1. Animations shall not slow down the playbillity of the game.
-	1. Animations shall render immediately when the game is started. 
-
-
-
-
+### Animation
+| ID | Requirement | Test Cases |
+| NFR11 | The animation of failing shall be obvious but not overly dramatic. | TBD |
+| NFR12 | The animation shall change when the player moves in different directions. | TBD |
+| NFR13 | The animation shall change when the enemy moves in different directionss. | TBD |
+| NFR14 | Animations shall not slow down the playbillity of the game. | TBD |
+| NFR15 | Animations shall render immediately when the game is started. | TBD |
 
 # Test Specification
 
@@ -97,8 +82,8 @@ irement | Test Cases |
 | TC3 | If the player jumps when pressing the spacebar. | Press Spacebar | Spacebar Key | Player should jump | Player did jump | Pass | FR8 |
 | TC4 | Testing to see if the player only jumps when touching the ground. | Player on the ground, then jump | Spacebar key | Player should jump while on ground | Player did jump | pass | FR10 |
 | TC5 | If the player is airborn, then the player should not be able to jump again. | Jump, then try jumping again whilie airborne | Spacebar key | Should not be able to jump | Did not jump | Pass | FR10 |
-| TC6 | Pressing start button should trigger an event | Press the start button | Left Mouse click, Start button | Button is pressed and event starts | Button was pressed and event started | Pass | (requirement IDs this test case is linked to) |
-| TC7 | Pressing Quit Game button should trigger an event | Left click on mouse while over Quit Game button | Left Mouse Click, Quit Button | Button is Pressed and event starts | Button was pressed and event started | Pass | (requirement IDs this test case is linked to) |
+| TC6 | Pressing start button should trigger an event | Press the start button | Left Mouse click, Start button | Button is pressed and event starts | Button was pressed and event started | Pass | FR2 |
+| TC7 | Pressing Quit Game button should trigger an event | Left click on mouse while over Quit Game button | Left Mouse Click, Quit Button | Button is Pressed and event starts | Button was pressed and event started | Pass | FR1 |
 | TC8 | Testing volume slider | Slide the volume slider | The sound variable 0-1 | Volume should match the slider variable | Volume did match the slider varaible | Pass | FR3 |
 | TC9 | Pressing ESC key should trigger an event | Press ESC key | ESC Key | Button pressed and event starts | Button was pressed event was triggered | Pass | FR11 |
 | TC10 | Pressing Resume should trigger an event | Pause the game, Press resume | ESC Key, Left mouse click on Resume button | Button is pressed and event starts | button was pressed and event started | Pass | FR14 |
