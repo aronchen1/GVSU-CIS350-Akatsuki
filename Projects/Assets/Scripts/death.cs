@@ -44,7 +44,7 @@ public class death : MonoBehaviour
     void OnCollisionEnter2D(Collision2D collision){
         patrol enemy = collision.collider.GetComponent<patrol>();
         if(enemy != null){
-            hurt();
+            isDead = true;
         }
     
     }

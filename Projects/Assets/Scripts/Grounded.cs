@@ -9,7 +9,7 @@ public class Grounded : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Player = GameObject.Find("Naruto_24");
+        Player = GameObject.Find("Naruto");
     }
 
     // Update is called once per frame
