@@ -11,28 +11,28 @@ The purpose of this document is to showcase our specfic requirements to have for
 ### Title Screen/Main Menu
 | ID | Requirement | Test Cases |
 | :-------------: | :----------: | :----------: |
-| FR1 | This game shall allow the player to exit the game. | TBD |
-| FR2 | This game shall let the user start a game thorugh the main menu. | TBD |
-| FR3 | This game shall allow the user to adjust the in-game volume through the main menu. | TBD |
+| FR1 | This game shall allow the player to exit the game. | TC7, TC17 |
+| FR2 | This game shall let the user start a game thorugh the main menu. | TC6, TC16 |
+| FR3 | This game shall allow the user to adjust the in-game volume through the main menu. | TC8 |
 | FR4 | This game shall generate a pre-made level when pressing the start button in the main menu. | TBD |
-| FR5 | This game shall play music when the Title screen is loaded. | TBD |
+| FR5 | This game shall play music when the Title screen is loaded. | TC20 |
 
 ### Character Movement
 | ID | Requirement | Test Cases |
 | :-------------: | :----------: | :----------: |
-| FR6 | Pressing the right arrow key shall make the chracter move right. | TBD |
-| FR7 | Pressing the left arrow key shall make the character move left. | TBD |
-| FR8 | Pressing the space bar key shall make the character jump. | TBD |
+| FR6 | Pressing the right arrow key shall make the chracter move right. | TC1 |
+| FR7 | Pressing the left arrow key shall make the character move left. | TC2 |
+| FR8 | Pressing the space bar key shall make the character jump. | TC3 |
 | FR9 | This game shall allow the user to control a sprite in-game. | TBD |
-| FR10 | This game shall allow the user to jump if the character in-game is touching the ground. | TBD |
+| FR10 | This game shall allow the user to jump if the character in-game is touching the ground. | TC4, TC5 |
 
 ### Pause Menu
 | ID | Requirement | Test Cases |
 | :-------------: | :----------: | :----------: |
-| FR11 | This pause menu shall allow the user to pause the game. | TBD |
+| FR11 | This pause menu shall allow the user to pause the game. | TC9, TC18 |
 | FR12 | This pause menu shall allow the user to fully exit the application. | TBD |
 | FR13 | This pause menu shall allow the user to adjust the in-game volume. | TBD |
-| FR14 | This pause menu shall allow the user to resume the game from the pause state. | TBD |
+| FR14 | This pause menu shall allow the user to resume the game from the pause state. | TC10, TC19 |
 | FR15 | This pause menu shall allow the user to exit to the Title Screen of the game. | TBD |
 
 ### Respawn System
