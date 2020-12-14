@@ -169,7 +169,6 @@ MonoBehaviour:
   enemyMask:
     serializedVersion: 2
     m_Bits: 55
-  p: {fileID: 7400000, guid: e5123e81b806ed543b113138326af086, type: 2}
   speed: 1
 --- !u!70 &605122791717794876
 CapsuleCollider2D:

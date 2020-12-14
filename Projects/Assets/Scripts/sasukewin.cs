@@ -6,28 +6,17 @@ using UnityEngine.SceneManagement;
 
 public class sasukewin : MonoBehaviour
 {
-    public LayerMask enemyMask;
-   public float speed;
-   Rigidbody2D myBody;
-   Transform myTrans;
-    float myWidth;
-    float myHeight;
-    BasicMovement enemy;
- 
-   void Start(){
-       myTrans = this.transform;
-       myBody = this.GetComponent<Rigidbody2D>();
-       SpriteRenderer mySprite = this.GetComponent<SpriteRenderer>();
-       myWidth = mySprite.bounds.extents.x;
-       myHeight = mySprite.bounds.extents.x;
- 
-   }
-
-   void OnCollisionEnter2D(Collision2D collision){
-        BasicMovement enemy = collision.collider.GetComponent<BasicMovement>();
-        if(enemy != null){
-            SceneManager.LoadScene("End");
-        }
+//    void OnCollisionEnter2D(Collision2D collision){
+//         BasicMovement player = collision.collider.GetComponent<BasicMovement>();
+//         if(player != null){
+//             Debug.Log("hit");
+//             SceneManager.LoadScene("End");
+//         }
     
-    }
+//     }
+
+void OnTriggerEnter2D(Collider2D other){
+            Debug.Log("hit");
+            SceneManager.LoadScene("End");
+}
 }
