@@ -47,7 +47,7 @@ The purpose of this document is to showcase our specfic requirements to have for
 ### System Requirements
 | ID | Requirement | Test Cases |
 | :-------------: | :----------: | :----------: |
-| NFR1 | This Program shall display a screen with a 2-D field of Vision. | TBD |
+| NFR1 | This Program shall display a screen with a 2-D field of Vision. | TC11 |
 | NFR2 | The system shall play music | TBD |
 | NFR3 | The game shall run on any modern computer system. | TBD |
 | NFR4 | The frames per second in this game shall be at a maximum of 60. | TBD |
@@ -94,7 +94,7 @@ This section describes the unit tests, integration tests, and system tests for o
 
 | ID | Description | Steps | Input Values | Expected Output | Actual Output | Pass/Fail | Requirement Link |
 | :-------------: | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: |
-| TC11 | (TC1 description) | (steps to execute TC1) | (input values to this test case) | (expected output as a result of test case) | (actual output of test case) | (did it pass or fail?) | (requirement IDs this test case is linked to) |
+| TC11 | The camera will follow the player | Move the player | Movement keys | Camera follows player | Camera follows player | Pass | NFR1 |
 | TC12 | (TC2 description) | (steps to execute TC2) | (input values to this test case) | (expected output as a result of test case) | (actual output of test case) | (did it pass or fail?) | (requirement IDs this test case is linked to) |
 | TC13 | (TC3 description) | (steps to execute TC3) | (input values to this test case) | (expected output as a result of test case) | (actual output of test case) | (did it pass or fail?) | (requirement IDs this test case is linked to) |
 | TC14 | (TC4 description) | (steps to execute TC4) | (input values to this test case) | (expected output as a result of test case) | (actual output of test case) | (did it pass or fail?) | (requirement IDs this test case is linked to) |
