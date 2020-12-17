@@ -13,3 +13,7 @@ This will be a side scroller game based on the hit anime tv show "Naruto". In th
 ## Prerequisites
 
 ## Run Instructions
+1. Click and download link below
+2. https://app.box.com/s/avrbt6co6xd0lkhqhynsop7qmody51m9
+3. Unzip file
+4. Run CIS350.exe
