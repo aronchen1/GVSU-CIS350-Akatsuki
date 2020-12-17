@@ -38,9 +38,9 @@ The purpose of this document is to showcase our specfic requirements to have for
 ### Respawn System
 | ID | Requirement | Test Cases |
 | :-------------: | :----------: | :----------: |
-| FR16 | Touching an enemy shall send the character back to the start of the level. | TBD |
+| FR16 | Touching an enemy shall send the character back to the start of the level. | TC14 |
 | FR17 | Falling off the map shall send the character back to the start of the level. | TBD |
-| FR18 | Getting hit by an item thrown by the enemy shall send the character to the start of the level. | TBD |
+| FR18 | Getting hit by an item thrown by the enemy shall send the character to the start of the level. | TC15 |
 
 ## Non-Functional Requirements
 
@@ -48,7 +48,7 @@ The purpose of this document is to showcase our specfic requirements to have for
 | ID | Requirement | Test Cases |
 | :-------------: | :----------: | :----------: |
 | NFR1 | This Program shall display a screen with a 2-D field of Vision. | TC11 |
-| NFR2 | The system shall play music | TBD |
+| NFR2 | The system shall play music | TC11 |
 | NFR3 | The game shall run on any modern computer system. | TBD |
 | NFR4 | The frames per second in this game shall be at a maximum of 60. | TBD |
 | NFR5 | The level reset time after a failed attempt shall be less than 5 seconds | TBD |
@@ -60,7 +60,7 @@ The purpose of this document is to showcase our specfic requirements to have for
 | NFR7 | This program shall take input from the mouse to navigate the menus. | TBD |
 | NFR8 | This program shall take input from the keyboard to change the state of the game. | TBD |
 | NFR9 | The title screen shall be easy to navigate for every user. | TBD |
-| NFR10 | This program shall have an objective for the player to reach by moving through the level. | TBD |
+| NFR10 | This program shall have an objective for the player to reach by moving through the level. | TC13 |
 
 ### Animation
 | ID | Requirement | Test Cases |
@@ -95,10 +95,10 @@ This section describes the unit tests, integration tests, and system tests for o
 | ID | Description | Steps | Input Values | Expected Output | Actual Output | Pass/Fail | Requirement Link |
 | :-------------: | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: |
 | TC11 | The camera will follow the player | Move the player | Movement keys | Camera follows player | Camera follows player | Pass | NFR1 |
-| TC12 | (TC2 description) | (steps to execute TC2) | (input values to this test case) | (expected output as a result of test case) | (actual output of test case) | (did it pass or fail?) | (requirement IDs this test case is linked to) |
-| TC13 | (TC3 description) | (steps to execute TC3) | (input values to this test case) | (expected output as a result of test case) | (actual output of test case) | (did it pass or fail?) | (requirement IDs this test case is linked to) |
-| TC14 | (TC4 description) | (steps to execute TC4) | (input values to this test case) | (expected output as a result of test case) | (actual output of test case) | (did it pass or fail?) | (requirement IDs this test case is linked to) |
-| TC15 | (TC5 description) | (steps to execute TC5) | (input values to this test case) | (expected output as a result of test case) | (actual output of test case) | (did it pass or fail?) | (requirement IDs this test case is linked to) |
+| TC12 | Different music will play for each scene | Change scenes | Pressing start game, winning game | Music will change | Music changed | Pass | NFR2 |
+| TC13 | When interacting with objective, a new scene will load | Player collide with objective | Movement keys | Winning scene loads | Winning scene loads | Pass | NFR10 |
+| TC14 | Player will die when colliding with patrol enemy | Collide with patrol enemy | Movement keys | Player death | Player death | Pass | FR16 |
+| TC15 | Player will die when colliding with bullet | Collide with bullet | Movement keys | Player death | Player death | Pass | FR18 |
 
 ## System tests
 
