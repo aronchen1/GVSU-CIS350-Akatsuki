@@ -1,10 +1,10 @@
 # Overview
 
-The purpose of this document is to showcase our specfic requirements to have for our product. From the specifications of this document our players will be able to strategize and learn problem solving skills while playing the game. Also from this document we follow the gaming industries standards by having a stable game across the board.
+The purpose of this document is to showcase our specfic requirements to have for our product. From the specifications of this document our players will be able to strategize and learn problem solving skills while playing the game. Also from this document we follow the gaming industries standards by having a stable game across the board through rigorous testing.
 
 # Software Requirements
 
-(describe the structure of this section)
+The purpose of this section is to showcase the Functional and Non-Functional categories we created with the proper requirements that were integrated into our prototype Naruto game.
 	
 ## Functionial Requirements
 
